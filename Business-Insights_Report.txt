@@ -1,0 +1,20 @@
+Business Insights Report (EDA)
+Objective
+The objective of this analysis was to perform Exploratory Data Analysis (EDA) on a marketing campaign dataset, clean the data, and identify factors that can improve marketing performance and return on investment (ROI).
+Data Cleaning
+Removed duplicate records.
+Handled missing values.
+Verified data types.
+Exported the cleaned dataset as a new CSV file.
+Key Findings
+Campaign performance varies across advertisers.
+Higher approved budgets generally lead to higher audience reach.
+Some campaigns have high media costs but lower performance.
+Optimizing budget allocation can improve overall ROI.
+Recommendations
+Increase budget for high-performing campaigns.
+Reduce spending on low-performing campaigns.
+Monitor campaign performance regularly.
+Continue using data analysis for future marketing decisions.
+Conclusion
+The analysis shows that effective budget allocation and continuous monitoring of campaign performance can improve marketing efficiency and maximize ROI.
